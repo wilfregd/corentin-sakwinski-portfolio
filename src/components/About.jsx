@@ -5,7 +5,7 @@ function About() {
     <section id="about" className=' bg-[#101015] w-full'>
       <div className='text-gray-400 space-y-10 px-10 md:max-w-xl lg:max-w-5xl h-auto bg-[#101015] py-20 flex flex-col justify-center items-center m-auto'>
         <h1 className='text-[1.5rem] lg:text-[1.7rem] tracking-widest uppercase font-thin'>À-Propos</h1>
-        <img src="/img/wilfre_logo.png" className='rounded-full shadow-sm w-32' />
+        <img src="./img/wilfre_logo.png" className='rounded-full shadow-sm w-32' />
         <p className='p-4 text-[0.9rem] sm:text-[1.1rem] md:text-[1rem] text-left'>
         Passionné par les métiers du web et du numérique, j'ai choisi de devenir développeur professionnel et d'en faire ma carrière. Depuis l'âge de 6 ans, ma curiosité m'a poussé à développer des applications et jeux vidéo, ce qui m'a ensuite conduit naturellement vers les métiers du web.<br/>J'ai développé une passion particulière pour le développement back-end tout en maintenant une capacité à gérer des projets full-stack.
           <br/><br/>Mes compétences ont été renforcées au fil des années et ont été officiellement validées grâce à une formation diplômante.
