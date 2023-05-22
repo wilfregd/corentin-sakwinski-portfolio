@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/corentin-sakwinski-portfolio/static/css/main.df788153.css",
+    "main.js": "/corentin-sakwinski-portfolio/static/js/main.df58320c.js",
+    "static/js/787.1ed0c42c.chunk.js": "/corentin-sakwinski-portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/cyber.svg": "/corentin-sakwinski-portfolio/static/media/cyber.f2745bbe0caadc71c90e.svg",
+    "static/media/logo.svg": "/corentin-sakwinski-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/github.svg": "/corentin-sakwinski-portfolio/static/media/github.06c3933bb0728d8696305a6460ab5330.svg",
+    "static/media/waves2i.svg": "/corentin-sakwinski-portfolio/static/media/waves2i.4fec1705701d7c81f594.svg",
+    "static/media/waves2.svg": "/corentin-sakwinski-portfolio/static/media/waves2.857bb5991d7ba577d644.svg",
+    "static/media/twitter.svg": "/corentin-sakwinski-portfolio/static/media/twitter.d47176865a3f2a141b331c098ad39642.svg",
+    "index.html": "/corentin-sakwinski-portfolio/index.html",
+    "static/media/envelope.svg": "/corentin-sakwinski-portfolio/static/media/envelope.9d23ca841c3241ce4f4ee6412c23db5c.svg",
+    "static/media/linkedin.svg": "/corentin-sakwinski-portfolio/static/media/linkedin.99563c4c9544f976d933e7310386e9cd.svg",
+    "main.df788153.css.map": "/corentin-sakwinski-portfolio/static/css/main.df788153.css.map",
+    "main.df58320c.js.map": "/corentin-sakwinski-portfolio/static/js/main.df58320c.js.map",
+    "787.1ed0c42c.chunk.js.map": "/corentin-sakwinski-portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df788153.css",
+    "static/js/main.df58320c.js"
+  ]
+}
