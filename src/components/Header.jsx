@@ -37,7 +37,7 @@ function Header() {
       }}
       >
         <div className='relative h-auto pt-40 py-4 flex flex-col justify-center items-center font-roboto space-y-3 lg:space-y-4'>
-            <img src="/img/photo.png" className="w-28 lg:w-32 rounded-full" />
+            <img src="./img/photo.png" className="w-28 lg:w-32 rounded-full" />
             <h1 className='uppercase text-[1.0rem] md:text-[0.9rem] lg:text-[1.1rem] font-thin text-gray-400 uppdercase tracking-widest'>Développpeur Web et Web Mobile</h1>
             <h1 className='text-[1.7rem] text-white flex flex-row justify-center items-center font-semibold'>Corentin Sakwinski</h1>
             <div className='text-[1.5rem] text-white flex flex-row justify-center items-center font-light'>
