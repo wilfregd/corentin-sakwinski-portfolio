@@ -14,14 +14,17 @@ function Skills() {
             <SkillBar imgPath="./img/skills/node-js.svg" label='Node.js' percentage={99} color="#00CCFF" />
             <SkillBar imgPath="./img/skills/express-js.webp" label='Express' percentage={99} color="#00CCFF" />
             <SkillBar imgPath="./img/skills/react.svg" label='React' percentage={97} color="#00CCFF" />
+            <SkillBar imgPath="./img/skills/csharp.svg" label='C#/.NET' percentage={98} color="#00CCFF" />
             <SkillBar imgPath="./img/skills/react.svg" label='React Native' percentage={70} color="#9067C6" />
-            <SkillBar imgPath="./img/skills/vuejs.svg" label='Vue.js' percentage={60} color="#9067C6" />
+            <SkillBar imgPath="./img/skills/git.svg" label='Git' percentage={85} color="#9067C6" />
+            <SkillBar imgPath="./img/skills/typescript.png" label='TypeScript' percentage={80} color="#9067C6" />
             <SkillBar imgPath="./img/skills/mongodb.svg" label='MongoDB' percentage={95} color="#9067C6" />
             <SkillBar imgPath="./img/skills/mysql.png" label='MySql' percentage={90} color="#9067C6" />
+            <SkillBar imgPath="./img/skills/sequelize.png" label='Sequelize' percentage={85} color="#9067C6" />
+            <SkillBar imgPath="./img/skills/vuejs.svg" label='Vue.js' percentage={50} color="#9067C6" />
             <SkillBar imgPath="./img/skills/html5.svg" label='HTML5' percentage={95} color="#9067C6" />
             <SkillBar imgPath="./img/skills/css3.png" label='CSS3' percentage={95} color="#9067C6" />
             <SkillBar imgPath="./img/skills/javascript.png" label='Javascript' percentage={95} color="#9067C6" />
-            <SkillBar imgPath="./img/skills/csharp.svg" label='C#/.NET' percentage={98} color="#9067C6" />
             <SkillBar imgPath="./img/skills/unity.png" label='Unity' percentage={85} color="#9067C6" />
             <SkillBar imgPath="./img/skills/godot.svg" label='Godot' percentage={97} color="#9067C6" />
             <SkillBar imgPath="./img/skills/ue4.png" label='Unreal Engine' percentage={60} color="#9067C6" />
