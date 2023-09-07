@@ -28,6 +28,8 @@ function Skills() {
             <SkillBar imgPath="./img/skills/unity.png" label='Unity' percentage={85} color="#9067C6" />
             <SkillBar imgPath="./img/skills/godot.svg" label='Godot' percentage={97} color="#9067C6" />
             <SkillBar imgPath="./img/skills/ue4.png" label='Unreal Engine' percentage={60} color="#9067C6" />
+            <SkillBar label='SEO' percentage={95} color="#00CCFF" />
+            <SkillBar label='Accessibilité' percentage={95} color="#00CCFF" />
         </div>
       </div>
       <div className='wave-top wave bottom-0 left-0 h-40 lg:h-[35vh] w-full pointer-events-none' />
